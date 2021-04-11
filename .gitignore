@@ -1,0 +1,7 @@
+node_modules/
+
+servers/*
+servers/template/*
+
+!servers/template
+!servers/template/run.bat
